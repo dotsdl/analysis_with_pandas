@@ -1,4 +1,4 @@
-## # Intermediate Scientific Python\n",
+## Intermediate Scientific Python
 This lesson assumes some programming background, but not necessarily with Python. It moves at a faster pace than a novice lesson, however.
 
 We will learn how to do the following:
